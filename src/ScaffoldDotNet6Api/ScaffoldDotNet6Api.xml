@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ScaffoldDotNet6Api</name>
+    </assembly>
+    <members>
+        <member name="T:ScaffoldDotNet6Api.LocalEntryPoint">
+            <summary>
+            The Main function can be used to run the ASP.NET Core application locally using the Kestrel webserver.
+            </summary>
+        </member>
+    </members>
+</doc>
